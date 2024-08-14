@@ -4,6 +4,9 @@
  - Nextjs
  - PostgreSQL (neon)
  - Prisma ORM
+ - Tailwindcss
+ - Shadcn-ui
+ - Husky lint-staged
 
 ## Steps
 npx create-next-app@latest project-name
